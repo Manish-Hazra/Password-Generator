@@ -2,8 +2,8 @@
 A simple password generator using Python.
 
 # Packages Needed to Run
-## Python Tkinter
-## Python Pyperclip
+### Python Tkinter
+### Python Pyperclip
 
 # Install packages
 pip install tkinter
